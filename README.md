@@ -7,21 +7,46 @@ Cybersecurity learner and hands-on practitioner focused on threat detection, vul
 ## Objective
 
 Transitioning into cybersecurity with a strong investigative mindset and a commitment to mastering SOC and security operations skills.
-
-## Current Focus
-- SOC Analyst Skill Development
-- Web Application Security Testing
-- Cloud Security Labs (Azure) 
-
+ 
 ## Skills
-- Threat Detection
-- SIEM Monitoring
-- Web Application Testing
+- Security Operationa
+  - Security alert triage and analysis
+  - Log correlation and event investigation
+  - Incident documentation and reporting
+  - Threat detection using SIEM queries
+- Cloud Security (Azure)
+  - Azure Virtual MAchine deployment
+  - NSG configuration
+  - Diagnostic logging and Log Analytics
+  - KQL query developlement for detection
+- Web Application Security
+  - Vulnerability assessement (automated & manual validation)
+  - Risk severity classification (CVSS-based understanding)
+  - Input validation and authentication weakness analysis
+  - Remediation recommendation writing 
 
-## Hands-On Projects 
-- Web App Vulnerability Assessment Lab
-- SIEM Log Analysis Practice
-- Cloud Security Monitoring Setup
+## Projects 
+- Azure Cloud SOC Lab
+- Simulated Incident Investigation Case Study
+- Web Application Secrutiy Assessment (Sanitized)
+- Lab Architecture
+- Detection Queries Repo
+
+## Tools & Techologies 
+- Microsoft Sentinel
+- Azure Log Analytics
+- Nmap
+- OWASP ZAP
+- Burp Suite
+- VMware
+- Kali Linux
+
+## Technical Foundations 
+- TCP/IP fundamentals
+- Windows & Linux system navigation
+- Basc scripting
+  - Bash / Powershell / Python
+- Virtualization concepts
 
 ## Certifications 
 - CompTIA Security+ (In Progress) 
