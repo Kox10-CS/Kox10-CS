@@ -28,7 +28,7 @@ Transitioning into cybersecurity with a strong investigative mindset and a commi
 ## Projects 
 - <a href="https://github.com/Kox10-CS/Azure-Cloud-SOC-Lab">Azure Cloud SOC Lab</a> 
 - Simulated Incident Investigation Case Study
-- <a href="Internship Web Application Secrutiy Assessment (Sanitized)
+- <a href="https://github.com/Kox10-CS/Internship-Experience--Web-Application-Assessment.git">Internship Web Application Secrutiy Assessment (Sanitized)
 - Lab Architecture
 - Detection Queries Repo
 
